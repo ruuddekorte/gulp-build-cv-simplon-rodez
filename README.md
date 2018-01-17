@@ -17,5 +17,6 @@ Une fois fini, faite un `npm run build` et déployer le contenue du dossier `dis
 
 - Les Wireframes,
 - Le repo github,
-- la github pages avec le CV.
-- Avoir un format PDF du CV en ligne téléchargeable.
+- la github pages avec le CV,
+- Avoir un format PDF du CV en ligne téléchargeable,
+- Fonctionne sur navigateur différent (chrome, firefox).
